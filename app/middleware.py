@@ -1,6 +1,7 @@
 import socket
 import threading
 from utils import parse_request 
+from modal.req_check import check_req
 
 class HTTPProxy:
     def __init__(self, host, port):
@@ -16,7 +17,8 @@ class HTTPProxy:
         # Receive data from the client
         request_data = client_socket.recv(4096)
         req = parse_request(request_data)
-        print("[Received Request]:\n", req)
+        print("[Received Request]:\n")
+        check_req(req)
         
         # Extract the destination host and port from the request
         try:
