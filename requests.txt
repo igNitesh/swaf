@@ -1,0 +1,1021 @@
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/ HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+Upgrade-Insecure-Requests: 1
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/logo.gif HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/header_pic.jpg HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/pf_lock.gif HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/gradient.jpg HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/header_pic.jpg HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/pf_lock.gif HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/gradient.jpg HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+
+
+
+[*] Request from client to event.shelljacket.us:443
+CONNECT event.shelljacket.us:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: event.shelljacket.us:443
+
+
+
+[*] Request from client to event.shelljacket.us:443
+CONNECT event.shelljacket.us:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: event.shelljacket.us:443
+
+
+
+[*] Request from client to event.shelljacket.us:443
+CONNECT event.shelljacket.us:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: event.shelljacket.us:443
+
+
+
+[*] Request from client to event.shelljacket.us:443
+CONNECT event.shelljacket.us:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: event.shelljacket.us:443
+
+
+
+[*] Request from client to event.shelljacket.us:443
+CONNECT event.shelljacket.us:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: event.shelljacket.us:443
+
+
+
+[*] Request from client to event.shelljacket.us:443
+CONNECT event.shelljacket.us:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: event.shelljacket.us:443
+
+
+
+[*] Request from client to event.shelljacket.us:443
+CONNECT event.shelljacket.us:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: event.shelljacket.us:443
+
+
+
+[*] Request from client to event.shelljacket.us:443
+CONNECT event.shelljacket.us:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: event.shelljacket.us:443
+
+
+
+[*] Request from client to event.shelljacket.us:443
+CONNECT event.shelljacket.us:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: event.shelljacket.us:443
+
+
+
+[*] Request from client to event.shelljacket.us:443
+CONNECT event.shelljacket.us:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: event.shelljacket.us:443
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/header_pic.jpg HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/gradient.jpg HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/pf_lock.gif HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/gradient.jpg HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/pf_lock.gif HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/header_pic.jpg HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/logo.gif HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/pf_lock.gif HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/gradient.jpg HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/header_pic.jpg HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/pf_lock.gif HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/gradient.jpg HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/logo.gif HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/header_pic.jpg HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/logo.gif HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/gradient.jpg HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/pf_lock.gif HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/header_pic.jpg HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/pf_lock.gif HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/gradient.jpg HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/logo.gif HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/header_pic.jpg HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/pf_lock.gif HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/gradient.jpg HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/header_pic.jpg HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/logo.gif HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/pf_lock.gif HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/gradient.jpg HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/header_pic.jpg HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/logo.gif HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/logo.gif HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/logo.gif HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/logo.gif HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/ HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+Upgrade-Insecure-Requests: 1
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/logo.gif HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/header_pic.jpg HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+If-Modified-Since: Thu, 09 Nov 2023 13:14:56 GMT
+If-None-Match: W/"16209-1699535696000"
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/pf_lock.gif HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+If-Modified-Since: Thu, 09 Nov 2023 13:14:56 GMT
+If-None-Match: W/"76-1699535696000"
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/gradient.jpg HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+If-Modified-Since: Thu, 09 Nov 2023 13:14:56 GMT
+If-None-Match: W/"894-1699535696000"
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/logo.gif HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/logo.gif HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/logo.gif HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/logo.gif HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/logo.gif HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/logo.gif HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/logo.gif HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/logo.gif HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/logo.gif HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/search.jsp?query=hello HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+Upgrade-Insecure-Requests: 1
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/logo.gif HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/search.jsp?query=hello
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/logo.gif HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/search.jsp?query=hello
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/logo.gif HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/search.jsp?query=hello
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/logo.gif HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/search.jsp?query=hello
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/logo.gif HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/search.jsp?query=hello
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/logo.gif HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/search.jsp?query=hello
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/logo.gif HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/search.jsp?query=hello
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/logo.gif HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/search.jsp?query=hello
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/logo.gif HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/search.jsp?query=hello
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+
+
+
+[*] Request from client to demo.testfire.net
+GET http://demo.testfire.net/images/logo.gif HTTP/1.1
+Host: demo.testfire.net
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Referer: http://demo.testfire.net/search.jsp?query=hello
+Cookie: JSESSIONID=3E22B664A9683688D7C6035900EB39C2
+
+
+
